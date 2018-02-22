@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         
-        $c = new Carro(2);
+        $c = new Carro(3);
         echo $c->getMotor();
         
             
