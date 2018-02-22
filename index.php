@@ -14,7 +14,7 @@ and open the template in the editor.
         
         $c = new Carro(3);
         echo $c->getMotor();
-        echo "Motor alterado";
+        echo "Motor alterado!";
         
             
         class Carro{
