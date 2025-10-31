@@ -17,6 +17,7 @@ and open the template in the editor.
         echo "Motor alterado!";
         echo "Motor alterado2!";
         echo "Motor alterado!3";
+        echo "Motor alterado!4";
         
 
         
